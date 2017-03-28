@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "751071443111",
+    "firebase_url": "https://chatapp-85438.firebaseio.com",
+    "project_id": "chatapp-85438",
+    "storage_bucket": "chatapp-85438.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751071443111:android:63e30bf97109a1bb",
+        "android_client_info": {
+          "package_name": "com.example.mayankmehta.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751071443111-7cpd1cmculf12mcobgvuilvcmq4ua456.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mayankmehta.chatapp",
+            "certificate_hash": "c124bdffb40a0baef4550cfb5ffc67fa7db00c4a"
+          }
+        },
+        {
+          "client_id": "751071443111-c2nvgdseud1sg8uh7r7bj2a46scq3abq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh3CB9Q7ZpWBsOqYgI26S0UO0TZUG2NG4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751071443111-c2nvgdseud1sg8uh7r7bj2a46scq3abq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
